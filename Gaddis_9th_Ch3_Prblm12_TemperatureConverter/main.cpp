@@ -2,11 +2,11 @@
  * File:   main.cpp
  * Author: Andrew Bowser
  * Created on August 25, 2024 11:16 AM
- *Purpose: Review problem Gaddis 3.12
+ *Purpose: Review problem Gaddis 3.12\
+ *testing editor mode for this
  */
 
 //System libraries
-
 #include <iostream> 
 using namespace std;
 
